@@ -15,10 +15,10 @@ import java.util.Scanner;
 
 /**
  *
- * @author Naubyra
+ * @author Diena 
  */
 public class Anggota extends CRUD<MySQLConnection> {
-    
+    String a;
     // insert data buku
     @Override
     public void insert(MySQLConnection m){
