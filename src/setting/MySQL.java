@@ -7,7 +7,7 @@ package setting;
 
 /**
  *
- * @author Naubyra
+ * @author hp
  */
 public interface MySQL {
     public String dbHost = "localhost";
