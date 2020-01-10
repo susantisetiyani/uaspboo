@@ -15,7 +15,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Naubyra
+ * @author Chandra Hannafi A
  */
 public class Peminjaman extends CRUD<MySQLConnection> {
     // insert data buku
